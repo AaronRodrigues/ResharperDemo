@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmOrganiser", "FilmOrganiser\FilmOrganiser.csproj", "{C8A5E742-8DAB-403F-9721-E8C2E600F94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmOrganiser.Tests", "FilmOrganiser.Tests\FilmOrganiser.Tests.csproj", "{DDA041A0-84C1-4ED4-8073-E830DF7E0E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A5E742-8DAB-403F-9721-E8C2E600F94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A5E742-8DAB-403F-9721-E8C2E600F94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A5E742-8DAB-403F-9721-E8C2E600F94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A5E742-8DAB-403F-9721-E8C2E600F94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA041A0-84C1-4ED4-8073-E830DF7E0E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA041A0-84C1-4ED4-8073-E830DF7E0E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA041A0-84C1-4ED4-8073-E830DF7E0E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA041A0-84C1-4ED4-8073-E830DF7E0E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4CE2C64-FAAB-43EE-AA0E-505FBF6D0E01}
+	EndGlobalSection
+EndGlobal
